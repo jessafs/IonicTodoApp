@@ -1,0 +1,46 @@
+.title-label {
+  color: #272e41 !important;
+  font-size: 20px !important;
+  font-weight: 600;
+  font-family: "DM Sans" !important;
+  margin: 10px 0px !important;
+}
+ion-input.title-input {
+  --color: #272e41;
+  font-size: 16px !important;
+  font-weight: 600;
+  font-family: "DM Sans" !important;
+  --placeholder-opacity: 0.8;
+  --padding-bottom: 10px;
+  --padding-end: 10px;
+  --padding-start: 10px;
+  --padding-top: 10px;
+  border: 1px solid #8a4e0f;
+  border-radius: 200px;
+  --highlight-color-focused: none !important;
+  margin-bottom: 5px !important;
+}
+ion-textarea {
+  margin-top: 20px;
+  min-height: 120px !important;
+  --border-color: #8a4e0f !important;
+  --highlight-color-focused: none !important;
+  --color: #272e41 !important;
+  font-size: 16px !important;
+  font-weight: 600;
+  font-family: "DM Sans" !important;
+}
+.save-btn {
+  margin-top: 50px;
+  --outline: none !important;
+  border: 1px solid #272e41 !important;
+  border-radius: 200px !important;
+  --color: #272e41 !important;
+  --background: #c4ebcc !important;
+  height: 48px !important;
+  font-size: 20px !important;
+  font-weight: 600;
+  font-family: "DM Sans" !important;
+  --ripple-color: none !important;
+  --box-shadow: none !important;
+}

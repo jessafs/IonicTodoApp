@@ -1,0 +1,69 @@
+.custom-searchbar {
+  --background: white !important;
+  --border-radius: 20px !important;
+  --placeholder-color: gray;
+  font-family: "DM Sans" !important;
+  font-size: 16px !important;
+  font-weight: 600;
+  --color: #000000;
+  height: 20px;
+}
+
+.custom-searchbar .searchbar-search-icon {
+  display: none;
+}
+
+.search-icon {
+  width: 40px !important;
+  height: 40px;
+  border: 1px solid #8a4e0f;
+  border-radius: 50%;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.footer {
+  background-color: #f4f5f8;
+  align-items: center;
+  padding: 0px 20px !important;
+  border-top: none !important;
+}
+.add-btn {
+  --border-color: #8a4e0f !important;
+  --border-width: 1px !important;
+  --border-stye: solid !important;
+  --border-radius: 200px !important;
+  --color: #8a4e0f;
+  padding: 10px 0px;
+  font-family: "DM Sans" !important;
+  font-size: 16px !important;
+  font-weight: 700;
+}
+.add-icon {
+  font-size: 30px !important;
+  margin-left: 4px;
+}
+.edit-btn {
+  --border-color: #8a6b0f !important;
+  --background: rgb(230, 177, 116);
+  --border-width: 1px !important;
+  --border-stye: solid !important;
+  --border-radius: 200px !important;
+  --color: #8a4e0f;
+  font-family: "DM Sans" !important;
+  font-size: 16px !important;
+  font-weight: 700;
+}
+.remove-btn {
+  --border-color: #8a6b0f !important;
+  --background: rgb(223 81 73 / 45%);
+  --border-width: 1px !important;
+  --border-stye: solid !important;
+  --border-radius: 200px !important;
+  --color: #8a0f0f;
+  font-family: "DM Sans" !important;
+  font-size: 16px !important;
+  font-weight: 700;
+}
